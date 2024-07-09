@@ -194,7 +194,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `fullname`, `dob`, `password`, `role_id`, `status`, `address`, `isConfirmed`, `captcha`) VALUES
-(1, 'admin@gmail.com', 'Nguyễn Việt Trung', '2021-11-01', 'e10adc3949ba59abbe56e057f20f883e', 1, 1, '', 1, ''),
+(1, 'admin@gmail.com', 'Nguyễn Đức Tùng', '2021-11-01', 'e10adc3949ba59abbe56e057f20f883e', 1, 1, '', 1, ''),
 (31, 'lapankhuongnguyen@gmail.com', 'khuong nguyen', '2021-12-06', 'c4ca4238a0b923820dcc509a6f75849b', 2, 1, 'CanTho', 1, '56661'),
 (32, 'meocon02002@gmail.com', 'Nguyễn Việt Trung', '2002-08-31', 'e13dd027be0f2152ce387ac0ea83d863', 2, 1, 'Hà Nội', 0, '24042'),
 (33, 'leducanh0887@gmail.com', 'leducanh', '2000-08-30', '8f562a872c4a1ee488c27a3c40215e57', 2, 1, 'Hà Nam', 0, '31857'),
